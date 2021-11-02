@@ -10,7 +10,7 @@ from sklearn.cluster import KMeans
 
 
 ''''
-This script was used to plot figure 5c of the paper
+This script was used to plot figure 7c of the paper
 GCG
 07.30.21
 '''
