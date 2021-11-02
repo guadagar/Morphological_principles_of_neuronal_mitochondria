@@ -9,7 +9,7 @@ from sklearn.cluster import KMeans
 from matplotlib.lines import Line2D
 from mpl_toolkits.mplot3d import Axes3D
 
-'''This script was used to generate figure 4a, and to calculate the values in Table 1
+'''This script was used to generate figure 6a, and to calculate the values in Table 1
 GCG
 07.09.21
 '''
