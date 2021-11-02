@@ -12,7 +12,7 @@ from matplotlib.ticker import FormatStrFormatter,ScalarFormatter
 from matplotlib import ticker
 
 ''''
-This script was used to plot figure 2d of the paper.
+This script was used to plot figure 4d of the paper.
 GCG
 30.07.21
 '''
