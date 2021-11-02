@@ -1,5 +1,5 @@
 # Morphological_principles_of_neuronal_mitochondria
-[DOI:10.1101/2021.03.15.435547](https://doi.org/10.1101/2021.03.15.435547 )
+[DOI:10.1002/cne.25254](https://doi.org/10.1002/cne.25254)
 
 Welcome to the repository of the manuscript "Morphological principles of neuronal mitochondria". This repository contains all the code generated 
 for this publication, for the analysis and figures in the paper. Other material as the electron tomograms used to generate the meshes can be found [here](). 
