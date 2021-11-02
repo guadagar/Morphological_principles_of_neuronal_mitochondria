@@ -12,7 +12,7 @@ from matplotlib.ticker import FormatStrFormatter,ScalarFormatter,AutoMinorLocato
 from matplotlib import ticker
 
 ''''
-This script was used to plot part of figure 4b
+This script was used to plot part of figure 4a
 GCG
 07.09.21
 '''
