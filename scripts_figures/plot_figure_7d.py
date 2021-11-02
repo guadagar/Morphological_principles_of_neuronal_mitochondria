@@ -10,7 +10,7 @@ from sklearn.cluster import KMeans
 
 
 ''''
-This script was used to plot figure 5d and generate table 2
+This script was used to plot figure 7d and generate table 2
 GCG
 07.30.21
 '''
