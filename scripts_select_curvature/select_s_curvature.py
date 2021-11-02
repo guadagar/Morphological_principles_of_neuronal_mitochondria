@@ -3,7 +3,7 @@ import blendgamer, numpy
 import pickle
 
 '''This script was used to select vertices with specific curvature.
-GCG
+CTL & GCG
 07.09.21
 '''
 
