@@ -4,7 +4,7 @@
 Welcome to the repository of the manuscript "Morphological principles of neuronal mitochondria". This repository contains all the code generated 
 for this publication, for the analysis and figures in the paper. Other material as the electron tomograms used to generate the 3D reconstructions and the meshes can be found [here](). 
 
-In the folder `/script_figures/` you can find all the code used to generate the figures, and a table `data_final.cvs` with all the taken measurements. The code is written in Python version 3.8. 
+In the folder `/script_figures/` you can find all the code used to generate the figures, and a table `data_final.cvs` with all the measurements. The code is written in Python version 3.8. 
 
 The folder `/contours/` contain the manual membrane traces. 
 
