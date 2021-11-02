@@ -1,0 +1,2 @@
+Note for column V
+*To properly include the CJs in the analysis we considered here the cristae membrane + 2 vertices in all directions. When the CM was not reconstructed we added a 1 in this column to avoid error while calculating the values with the scripts.
